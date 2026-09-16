@@ -12,8 +12,6 @@ it, not just the output.
 
 ## Projects
 
-## Projects
-
 **[Mind the Gap](https://jareddixon-ai.github.io/mind-the-gap/)** —
 A London guide and trip builder. A few hundred recommendations from locals and
 classmates, plus an hour-by-hour week I planned for my dad, wired into a tool
