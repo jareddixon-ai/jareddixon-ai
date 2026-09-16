@@ -1,7 +1,7 @@
 # Jared Dixon
 
 Economics at UC Santa Barbara, class of 2027. Learning to build with AI from
-no technical background — this is where that work lands.
+no technical background.
 
 ## What this is
 
@@ -11,6 +11,11 @@ public, including the parts that didn't work. Each repo has the reasoning in
 it, not just the output.
 
 ## Projects
+
+**[Tokens to Agents](https://jareddixon-ai.github.io/tokens-to-agents/)** —
+A 7-module course on AI fundamentals, built while teaching myself from no
+technical background. Quizzes, flashcards, and a glossary.
+*(Live site — [source](https://github.com/jareddixon-ai/tokens-to-agents))*
 
 **[Mind the Gap](https://jareddixon-ai.github.io/mind-the-gap/)** —
 A London guide and trip builder. A few hundred recommendations from locals and
@@ -25,10 +30,9 @@ the output.
 
 ## Background
 
-- Economics major, UCSB '27 — minors in Spanish, Applied Psychology, and Technology Management
+- Economics major, UCSB '27 — minors in Spanish, Applied Psychology, and Certificate in Technology Management
 - Growth strategy and operations at Sotheby's International Realty, Montecito
+- Started a freelance marketing consulting business
 - Co-founded and co-led UCSB's Entrepreneurship Club, 48 members
 - Two years in Santa Cruz, Bolivia — led 20+ volunteers teaching English and financial literacy
 - Fluent in Spanish, conversational Quechua
-
-## Reach me
