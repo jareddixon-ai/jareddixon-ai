@@ -12,6 +12,13 @@ it, not just the output.
 
 ## Projects
 
+## Projects
+
+**[Mind the Gap](https://jareddixon-ai.github.io/mind-the-gap/)** —
+A London guide and trip builder. A few hundred recommendations from locals and
+classmates, plus an hour-by-hour week I planned for my dad, wired into a tool
+that builds your itinerary. *(Live site — [source](https://github.com/jareddixon-ai/mind-the-gap))*
+
 **[ai-prompt-library](https://github.com/jareddixon-ai/ai-prompt-library)** —
 Prompts I actually use, with version notes on what I changed and why it moved
 the output.
